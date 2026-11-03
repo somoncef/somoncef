@@ -2,7 +2,7 @@
 
 # Hi, I'm Moncef 👋
 
-**Full-Stack Engineer & IT Lead · Casablanca, Morocco**
+**Full-Stack Engineer · Casablanca, Morocco**
 
 <a href="https://www.linkedin.com/in/monsif-souri-1b9a2a206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://instagram.com/so_moncef"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>

@@ -15,12 +15,3 @@
 I build and run the logistics system used nationwide by every hub at **ChronoDiali**, automate work for the operations, finance and sales teams, and ship BI dashboards and data pipelines (Power BI) for decision-makers.
 
 Currently exploring real-time data engineering with Kafka.
-
-### Tech stack
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,postgres,kafka,docker,powerbi&theme=dark" alt="Tech stack" />
-
-### Stats
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=somoncef&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somoncef&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
